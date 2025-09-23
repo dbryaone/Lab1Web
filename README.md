@@ -3,7 +3,7 @@
 Paragraf merupakan kumpulan dari beberapa kalimat.
 
 ## 2. Menambahkan Judul
-Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. Untuk menambahkan judul pada HTML dapat diketik dengan <h1> untuk heading 1 sampai tag <h6>. contohnya:
+Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. 
 <h1>Heading 1</h1>
 <h2>Heading sampai 6</h2>
 
