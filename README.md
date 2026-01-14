@@ -9,8 +9,8 @@ Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artik
 
 ## 3. Memformatkan Teks
 Pada praktikum yang sudah dilakukan, terdapat beberapa tag yang dipakai seperti <b> untuk mempertebal teks</b>, <i> untuk italic text</i>, <span style="color: brown> untuk mewarnai teks.
-<img width="665" height="825" alt="3  judul justify dan left" src="https://github.com/user-attachments/assets/8dd0b468-2c07-4c84-ac78-70f80c1dd84a" />
-<img width="552" height="741" alt="4  Format Teks" src="https://github.com/user-attachments/assets/82489a64-5faf-452f-a21c-7748c7ec5060" />
+<img width="663" height="997" alt="2  align center dan right" src="https://github.com/user-attachments/assets/7dd9c0ef-0b50-449a-94da-6eaaf3d13b99" />
+<img width="665" height="825" alt="3  judul justify dan left" src="https://github.com/user-attachments/assets/e802a545-5943-4f2d-95ac-c71062197064" />
 
 ## 4. Menyisipkan Gambar
 untuk menyisipkan gambar juga bisa mnenggunakan link yang berakhiran png, seperti yang saya lakukan pada praktikum ini.
