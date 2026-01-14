@@ -5,7 +5,7 @@ Paragraf merupakan kumpulan dari beberapa kalimat.
 
 ## 2. Menambahkan Judul
 Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. 
-<img width="663" height="997" alt="2  align center dan right" src="https://github.com/user-attachments/assets/f43595ec-8a3f-451f-939f-d07ecbc1abae" />
+<img width="552" height="741" alt="4  Format Teks" src="https://github.com/user-attachments/assets/825d9c8a-b817-421c-9134-84ef5b5aeca3" />
 
 ## 3. Memformatkan Teks
 Pada praktikum yang sudah dilakukan, terdapat beberapa tag yang dipakai seperti <b> untuk mempertebal teks</b>, <i> untuk italic text</i>, <span style="color: brown> untuk mewarnai teks.
